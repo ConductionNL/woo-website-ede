@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Contact",
+      "items": [
+        {
+          "ariaLabel": "Phone number",
+          "value": "+140318",
+          "link": "140318",
+          "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Address",
+          "value": "Locaties en openingstijden",
+          "link": "https://www.noordwijk.nl/contact/locaties/",
+          "icon": { "prefix": "fas", "icon": "location-dot", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Contact",
+          "value": "Contact",
+          "link": "https://www.ede.nl/contact/",
+          "icon": { "prefix": "fas", "icon": "earth-europe", "placement": "left" }
+        }
+      ]
+    },
+    {
+      "title": "Algemeen",
+      "items": [
+        {
+          "ariaLabel": "Website",
+          "value": "www.ede.nl",
+          "link": "https://www.ede.nl/",
+          "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Privacy",
+          "value": "Over de site en privacyverklaring",
+          "link": "https://www.ede.nl/over-de-site-en-privacyverklaring",
+          "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Toegankelijkheid",
+          "value": "Toegankelijkheid",
+          "markdownLink": "https://www.ede.nl/toegankelijkheidsverklaring-edenl",
+          "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+        }
+      ]
+    }
+  ]
