@@ -40,7 +40,7 @@
         {
           "ariaLabel": "Toegankelijkheid",
           "value": "Toegankelijkheid",
-          "markdownLink": "https://www.ede.nl/toegankelijkheidsverklaring-edenl",
+          "link": "https://www.ede.nl/toegankelijkheidsverklaring-edenl",
           "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
         }
       ]
