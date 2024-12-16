@@ -11,7 +11,7 @@
         {
           "ariaLabel": "Address",
           "value": "Locaties en openingstijden",
-          "link": "https://www.noordwijk.nl/contact/locaties/",
+          "link": "https://www.ede.nl/contact",
           "icon": { "prefix": "fas", "icon": "location-dot", "placement": "left" }
         },
         {
