@@ -5,7 +5,7 @@
         {
           "ariaLabel": "Phone number",
           "value": "+140318",
-          "link": "140318",
+          "link": "tel:140318",
           "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
         },
         {
