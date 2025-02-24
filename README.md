@@ -1,5 +1,5 @@
-# Over Woo en OpenWoo.app
-
+# Over Woo en OpenWoo.app v2
+ 
 Ondersteuning en bijeenkomsten
 
 Wil je meer weten over deze oplossing? We hebben een speciaal Slack kanaal binnen Common Ground waar we graag helpen. Je kunt ook altijd contact opnemen via info@conduction.nl. Bezoek ook openwoo.app voor meer informatie.
